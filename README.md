@@ -1,2 +1,2 @@
-# gloccoinxl.sol
+# Gloccoinxl.sol
 Gloccoinxl - 
